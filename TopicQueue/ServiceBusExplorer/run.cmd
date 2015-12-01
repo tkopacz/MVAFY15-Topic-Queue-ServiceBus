@@ -1,0 +1,1 @@
+"ServiceBusExplorer.exe" /c "Endpoint=sb://dpeplfy13.servicebus.windows.net/;SharedSecretIssuer=owner;SharedSecretValue=/q67h/X2ZfTESpM382ElvqjWVxTzAZ6IGNQ3dzsZVLc="

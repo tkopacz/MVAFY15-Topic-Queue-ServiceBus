@@ -1,0 +1,72 @@
+[
+  {
+    "namespace": "tkconndots-ns",
+    "eventHub": "ehdevices",
+    "leases": {
+      "3": {
+        "PartitionId": "3",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "635400",
+        "SequenceNumber": 2338
+      },
+      "5": {
+        "PartitionId": "5",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "638704",
+        "SequenceNumber": 2350
+      },
+      "0": {
+        "PartitionId": "0",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "635192",
+        "SequenceNumber": 2337
+      },
+      "2": {
+        "PartitionId": "2",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "634432",
+        "SequenceNumber": 2335
+      },
+      "4": {
+        "PartitionId": "4",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "634992",
+        "SequenceNumber": 2337
+      },
+      "1": {
+        "PartitionId": "1",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "637560",
+        "SequenceNumber": 2346
+      },
+      "6": {
+        "PartitionId": "6",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "637560",
+        "SequenceNumber": 2346
+      },
+      "7": {
+        "PartitionId": "7",
+        "Owner": "ServiceBusExplorer",
+        "Token": null,
+        "Epoch": 0,
+        "Offset": "637488",
+        "SequenceNumber": 2346
+      }
+    }
+  }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Message xmlns="http://schemas.microsoft.com/servicebusexplorer">
+  <Date>Friday, November 27, 2015 4:06:45 PM</Date>
+  <Content><![CDATA[{
+		"alerttype": "TempSpike",
+		"message": "TempOver 20C",
+		"displayname": "DHT0",
+		"guid":	"00000000-0000-0000-0000-000000000000",
+		"measurename": "Temperature",
+		"unitofmeasure": "C",
+		"location": "SPARKCORE1",
+		"organization": "TK",
+		"timecreated":"2015-06-14T18:34:52.000Z",
+		"tempmax":60,
+		"value":60
+}
+]]></Content>
+</Message>
